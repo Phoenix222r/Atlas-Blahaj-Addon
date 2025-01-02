@@ -2,8 +2,8 @@ local Row, Column = 0, 0
 
 return {
     Type = "Window",
-    Name = "Blahaj",
-    Description = "Spinning Blahaj.",
+    Name = "Blåhaj :3",
+    Description = "Spinning Blåhaj",
     Version = "v1.0.0",
     Creator = "phoenixrobot07",
     Callback = function()
